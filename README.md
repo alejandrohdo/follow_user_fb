@@ -29,7 +29,7 @@ python follow_recommended_users_fb.py
  
 run .py, log in and authenticate on facebook
 
-Note: the session is automatically saved in your profile in path: /home/user-xxx/.config/google-chrome google-chrome/fb-user-profile / 
+Note: the session is automatically saved in your profile in path: /home/user-xxx/.config/google-chrome/fb-user-profile/ 
 
 ```
 python follow_recommended_users_fb.py -user='username o email fb' -pas='*******'
