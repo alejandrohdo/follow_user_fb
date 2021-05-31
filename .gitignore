@@ -1,0 +1,31 @@
+log/*
+#gitIgnore de Setting.py
+follow_user_fb/settings/config.json
+public/*
+follow_user_fb/__pycache__/*
+local_settings.py
+
+# File types #
+##############
+*.pyo
+*.pyc
+*.swo
+*.swp
+*.swn
+
+# PyCharm project settings
+.idea
+
+# Directories #
+###############
+logs/
+
+# OS generated files #
+######################
+.DS_Store
+*.db
+Icon
+Thumbs.db
+*~HASLLAs
+,9   					
+
